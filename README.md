@@ -1,4 +1,4 @@
-Web based game built for google chrome browser with HTM/CSS and Javascript.
+Web based game built for google chrome browser with HTML/CSS and Javascript.
 
 Based on the city of Coimbra and it's university students life style.
 
@@ -7,7 +7,7 @@ Based on the city of Coimbra and it's university students life style.
 
 Project developers:
 
-Ágata Sofia Rodrigues Varzielas
+Ágata Sofia R. Varzielas
 
 Alexandre Valente Rodrigues
 
