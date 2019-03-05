@@ -1,16 +1,14 @@
-Web based game built for google chrome browser with HTML/CSS and Javascript.
+# Coimbra
 
-Based on the city of Coimbra and it's university students life style.
-
-Available to play online at https://coimbra.herokuapp.com/
+Available to play online at: [link](https://lexvar.github.io/Coimbra)
 
 ![alt text](https://github.com/LexVar/Coimbra/blob/master/resources/logo.png?raw=true)
 
+Web based snake-like game built with HTML/CSS and Javascript.
 
-Project developers:
+Game based on the city of Coimbra and it's university students life style.
 
-Ágata Sofia R. Varzielas
-
-Alexandre Valente Rodrigues
-
-Pedro António Castela Nolasco
+### Authors
+- Ágata Sofia R. Varzielas
+- Alexandre Valente Rodrigues
+- Pedro António Castela Nolasco
